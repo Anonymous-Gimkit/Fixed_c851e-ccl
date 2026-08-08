@@ -1,2 +1,5 @@
 # anonymousgimkit.github.io
-Some site I created to store my OBVE content. Very trashy...
+**Trains:**
+C851E
+C830C
+*C830 coming soon!*
