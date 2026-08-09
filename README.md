@@ -1,5 +1,5 @@
 # anonymousgimkit.github.io
-The files for my (very bad) website.
+The files for my website.
 
 **Trains:**
 
